@@ -1,4 +1,5 @@
-![Uploading Banner Profissional em Paisagem Verde.png…]()
+<img width="2172" height="724" alt="Banner Profissional em Paisagem Verde" src="https://github.com/user-attachments/assets/083e16fe-5c86-4977-9ad6-c98ef640bfc9" />
+
 
 ---
 
