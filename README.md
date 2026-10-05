@@ -1,54 +1,27 @@
-# 👋 Olá, eu sou Samuel Dornelas
+<div align="center">
 
-### Estudante de Engenharia de Software • Desenvolvedor Web
+# SAMUEL DORNELAS
 
-![Texto animado](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=24&width=700&lines=Bem-vindo+ao+meu+GitHub;Estudante+de+Engenharia+de+Software;Desenvolvendo+projetos+reais;Sempre+aprendendo+e+evoluindo)
+### Engenharia de Software • Desenvolvimento Web
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B7B7B7&center=true&vCenter=true&width=800&lines=%F0%9F%95%B8%EF%B8%8F+Bem-vindo+ao+meu+GitHub;Transformando+ideias+em+projetos+reais;Desenvolvimento+Web+%E2%80%A2+Tecnologia+%E2%80%A2+Criatividade;Sempre+aprendendo.+Sempre+evoluindo." />
 
-## 👨‍💻 Sobre mim
-
-- 🎓 Estudante de **Engenharia de Software**
-- 💻 Focado em **Desenvolvimento Web**
-- 🌱 Estudando **HTML, CSS, JavaScript e Python**
-- 🚀 Criando projetos reais para desenvolver meu portfólio
-- 🤖 Interessado em tecnologia e Inteligência Artificial
-- 📍 Timóteo - MG, Brasil
+</div>
 
 ---
 
-## 🛠️ Tecnologias
+## 🕸️ Sobre mim
 
-![HTML](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
+Sou **Samuel Dornelas**, estudante de **Engenharia de Software**, com foco em desenvolvimento web e criação de projetos reais.
 
----
+Gosto de transformar ideias em experiências digitais modernas, funcionais e com identidade própria.
 
-## 🎯 Atualmente
-
-- Desenvolvendo sites
-- Criando meu portfólio
-- Aprendendo novas tecnologias
-- Evoluindo como desenvolvedor
-
----
-
-## 📊 Estatísticas
-
-![Samuel GitHub Stats](https://github-readme-stats.vercel.app/api?username=samueldornelas-dev&show_icons=true&theme=midnight-purple&hide_border=true)
-
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=samueldornelas-dev&layout=compact&theme=midnight-purple&hide_border=true)
-
----
-
-## 🌐 Entre em contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Dornelas-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-dornelas-dev/)
-
----
-
-### 🚀 Transformando ideias em projetos reais.
+```javascript
+const samuel = {
+    formação: "Engenharia de Software",
+    foco: "Desenvolvimento Web",
+    estudando: ["HTML", "CSS", "JavaScript", "Python"],
+    interesses: ["Web", "Tecnologia", "IA", "Design"],
+    objetivo: "Transformar ideias em projetos reais",
+    status: "Evoluindo a cada projeto 🕷️"
+};
