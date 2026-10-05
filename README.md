@@ -1,12 +1,4 @@
-<div align="center">
-
-# SAMUEL DORNELAS
-
-### Engenharia de Software • Desenvolvimento Web
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B7B7B7&center=true&vCenter=true&width=800&lines=%F0%9F%95%B8%EF%B8%8F+Bem-vindo+ao+meu+GitHub;Transformando+ideias+em+projetos+reais;Desenvolvimento+Web+%E2%80%A2+Tecnologia+%E2%80%A2+Criatividade;Sempre+aprendendo.+Sempre+evoluindo." />
-
-</div>
+![Uploading Banner Profissional em Paisagem Verde.png…]()
 
 ---
 
