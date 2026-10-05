@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**samueldornelas-dev/samueldornelas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Samuel Dornelas
 
-Here are some ideas to get you started:
+### Software Engineering Student • Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=24&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile;Software+Engineering+Student;Web+Developer+in+progress;Always+learning+new+things" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const samuel = {
+  name: "Samuel Dornelas",
+  role: "Software Engineering Student",
+  focus: "Web Development",
+  learning: ["HTML", "CSS", "JavaScript", "Python"],
+  goals: ["Build real projects", "Improve my portfolio", "Grow as a developer"],
+  status: "Always learning and building 🚀"
+}
